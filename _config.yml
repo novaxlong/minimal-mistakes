@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "LONG Cheng's Webpage"
+title                    : "LONG Cheng's Homepage"
 title_separator          : "-"
 name                     : "LONG Cheng"
-description              : "To be added later on."
+description              : "This is the webpage of LONG Cheng."
 url                      : "https://novaxlong.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : novaxlong/novaxlong.github.io# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "LONG Cheng"
+  name             : "LONG Cheng (??)"
   avatar           : "/assets/images/bio-photo.jpg"
 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Assistant Professor,

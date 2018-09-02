@@ -1,10 +1,10 @@
 # main links
 main:
-  - title: "About"
+  - title: "Home"
     url: /
   - title: "Research"
-    url: /_pages/research.html
+    url: /pages/research/
   - title: "Teaching"
-    url: /teaching/
+    url: /pages/teaching/
   - title: "Services"
-    url: /activities/
+    url: /pages/services/

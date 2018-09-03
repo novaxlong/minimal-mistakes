@@ -100,15 +100,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "LONG Cheng (??)"
+  name             : "Dr. LONG Cheng"
   avatar           : "/assets/images/bio-photo.jpg"
 # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Assistant Professor,
-School of Computer Science and Engineering (SCSE),
-Nanyang Technological University (NTU)"
-  location         : #"Somewhere"
-  email            :
-  uri              :
+  bio              : "Assistant Professor, <span></span>School of Computer Science and Engineering, Nanyang Technological University"
+  email            : "c.long@ntu.edu.sg"
+  phone			   : "+65 6790 6822"
+  location         : "N4-02c-117a, NTU, Singapore"
+  uri              : #"novaxlong.github.io"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -116,13 +115,13 @@ Nanyang Technological University (NTU)"
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : 
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/cheng-long-a9b79843/# "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : "cheng-long-a9b79843" # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
